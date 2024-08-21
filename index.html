@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link href="https://cdn.jsdelivr.net/npm/remixicon@4.3.0/fonts/remixicon.css" rel="stylesheet" />
+  <link rel="stylesheet" href="styles.css" />
+  <title>Abhishek Madoliya</title>
+</head>
+
+<body>
+  <nav>
+    <div class="nav__bar">
+      <div class="nav__header">
+        <div class="nav__logo">
+          <a href="#">Abhishek Madoliya</a>
+        </div>
+        <div class="nav__menu__btn" id="menu-btn">
+          <i class="ri-menu-line"></i>
+        </div>
+      </div>
+      <ul class="nav__links" id="nav-links">
+        <li><a href="#home">Home</a></li>
+        <li><a href="#project">Projects</a></li>
+        <!-- <li><a href="#resume">Resume</a></li> -->
+        <li><a href="#contact">Contact</a></li>
+      </ul>
+    </div>
+  </nav>
+  <header class="section__container header__container" id="home">
+    <img src="assets/profile.JPG" alt="header" id="profileimg" />
+    <h1>Hi, i Am <br> Abhishek Madoliya<br />A passionate <span>Full-Stack-Developer</span></h1>
+    <p>
+      I am a passionate Full Stack Developer specializing in the MERN stack (MongoDB, Express.js, React, Node.js), eager
+      to apply my skills in a professional setting. As a fresher, I am actively seeking internship opportunities to gain
+      hands-on experience and contribute to real-world projects. I am driven by a strong desire to learn, grow, and
+      collaborate with industry professionals. My enthusiasm for coding and problem-solving, combined with my academic
+      knowledge, makes me a quick learner and a dedicated team player. Let's work together to build innovative
+      solutions!
+    </p>
+    <div class="header__btns">
+      <button class="btn">Get in Touch</button>
+      <a href="assets/CV.pdf" download>Download Resume</a>
+    </div>
+  </header>
+
+  <section class="section__container skill__container">
+    <h2>Skills</h2>
+    <ul class="skill__flex">
+      <li>
+        <span><i class="ri-javascript-fill"></i></span>
+      </li>
+      <li>
+        <span><i class="ri-reactjs-fill"></i></span>
+      </li>
+      <li>
+        <span><i class="ri-html5-fill"></i></span>
+      </li>
+      <li>
+        <span><i class="ri-nodejs-line"></i></span>
+      </li>
+      <li>
+        <span><i class="ri-css3-fill"></i></span>
+      </li>
+      <li>
+        <span><img src="./assets/express.png" alt="Expressjs"></span>
+      </li>
+      <li>
+        <span><img src="./assets/sql.png" alt="Mysql"></span>
+      </li>
+    </ul>
+  </section>
+
+  <section class="section__container project__container" id="project">
+    <h2>PROJECTS</h2>
+    <div class="project__grid">
+      <div class="project__card">
+        <img src="assets/whwther.avif" alt="API-BASED whwther application" />
+        <div class="project__card__details">
+          <div>
+            <p>API-Based Simple Whether App</p>
+            <h4>WHETHER APPLICATION</h4>
+            <button><a href="https://github.com/Abhishekmadoliya/Whether-Application"
+                >View
+                Souce-code</a></button>
+
+          </div>
+          <a href="https://abhishekmadoliya.github.io/Whether-Application/"><i class="ri-arrow-right-up-line"></i></a>
+
+        </div>
+      </div>
+      <div class="project__card">
+        <img src="assets/tts.jpg" alt="TEXT-TO-SPEECH CONVERTER" />
+        <div class="project__card__details">
+          <div>
+            <p>Convert text to speech using javascript</p>
+            <h4>TEXT-TO-SPEECH</h4>
+            <button><a href="https://github.com/Abhishekmadoliya/TTSJAVASCRIPT"
+              >View
+              Souce-code</a></button>
+          </div>
+          <a href="https://github.com/Abhishekmadoliya/TTSJAVASCRIPT"><i class="ri-arrow-right-up-line"></i></a>
+        </div>
+      </div>
+    </div>
+  </section>
+  
+
+  <footer>
+    <div class="section__container footer__container" id="contact">
+      <h2>Contact</h2>
+      <p>
+        Have a project in mind or an opportunity you'd like to discuss? Feel free to reach out! I'm always open to new
+        challenges and collaborations. You can contact me via email at [your email address] or connect with me on
+        LinkedIn [LinkedIn profile link]. Let's make something great together!
+      </p>
+      <div class="mail__to">
+        <a href="#">
+          <span><i class="ri-mail-line"></i> abhishekmadoliya@gmail.com</span> 
+          <span><i class="ri-phone-line"></i>+91 9310069214</span>
+          
+        </a>
+      </div>
+      <ul class="footer__socials">
+        <li>
+          <a href="https://www.linkedin.com/in/abhishek-madoliya-540847273/"><i class="ri-linkedin-box-fill"></i></a>
+        </li>
+        <li>
+          <a href="https://github.com/Abhishekmadoliya"><i class="ri-github-fill"></i></a>
+        </li>
+        
+      </ul>
+    </div>
+  </footer>
+
+  <script src="https://unpkg.com/scrollreveal"></script>
+  <script src="main.js"></script>
+</body>
+
+</html>
