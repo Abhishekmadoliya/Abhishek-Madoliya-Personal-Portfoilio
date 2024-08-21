@@ -3,7 +3,8 @@ live link: https://abhishekmadoliya.github.io/Abhishek-Madoliya-Personal-Portfoi
 Personal Portfolio
 
 Overview:
-    -This is my personal portfolio website that showcases my skills, projects, and professional journey  developer. The portfolio is designed to provide a comprehensive view of my work, background, and capabilities in web development.
+    -This is my personal portfolio website that showcases my skills, projects, and professional journey  developer. 
+    The portfolio is designed to provide a comprehensive view of my work, background, and capabilities in web development.
 
 Features:
     -About Me: A brief introduction highlighting my expertise and passion for web development.
