@@ -1,10 +1,9 @@
-Here's a suggested content for the `README.md` file for your **Personal Portfolio** project:
-
 ```markdown
+view live here: https://abhishekmadoliya.github.io/Abhishek-Madoliya-Personal-Portfoilio/
 # Abhishek Madoliya - Personal Portfolio
 
 Welcome to the **Personal Portfolio** repository! This project showcases a personal portfolio website designed to highlight skills, projects, and accomplishments. The portfolio is built with a clean, responsive design to provide an optimal viewing experience across devices.
-view live here: https://abhishekmadoliya.github.io/Abhishek-Madoliya-Personal-Portfoilio/
+
 ---
 
 ## Features
