@@ -1,4 +1,6 @@
-view live here: https://abhishekmadoliya.github.io/Abhishek-Madoliya-Personal-Portfoilio/[abhishek_madoliya_resume .pdf](https://github.com/user-attachments/files/21411715/abhishek_madoliya_resume.pdf)
+view live here: https://abhishekmadoliya.github.io/Abhishek-Madoliya-Personal-Portfoilio/
+
+[abhishek_madoliya_resume .pdf](https://github.com/user-attachments/files/21411715/abhishek_madoliya_resume.pdf)
 
 ```markdown
 # Abhishek Madoliya - Personal Portfolio
