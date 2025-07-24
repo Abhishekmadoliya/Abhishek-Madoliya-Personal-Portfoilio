@@ -1,6 +1,7 @@
 view live here: https://abhishekmadoliya.github.io/Abhishek-Madoliya-Personal-Portfoilio/
 ```markdown
 # Abhishek Madoliya - Personal Portfolio
+[abhishek_madoliya_resume .pdf](https://github.com/user-attachments/files/21411690/abhishek_madoliya_resume.pdf)
 
 Welcome to the **Personal Portfolio** repository! This project showcases a personal portfolio website designed to highlight skills, projects, and accomplishments. The portfolio is built with a clean, responsive design to provide an optimal viewing experience across devices.
 
